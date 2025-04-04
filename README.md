@@ -17,11 +17,12 @@ This project seeks to answer the following key questions:
 - How can these insights improve customer experience and revenue?
 
 ## Process
-The analysis was conducted in Jupyter Notebook using Python libraries: Pandas, NumPy, Matplotlib, and Seaborn. Below is the step-by-step process:
+The analysis was conducted in Visual Studio Code using Python libraries: Pandas, NumPy, Matplotlib, and Seaborn. Below is the step-by-step process
 
 **1. Environment Setup:**
-- Installed Python and required libraries (pip install pandas numpy matplotlib seaborn).
-- Launched Jupyter Notebook for interactive coding.
+- Installed Python and Anaconda to enable Jupyter support.
+- Installed required libraries (pip install pandas numpy matplotlib seaborn).
+- Configured Visual Studio Code with the Jupyter extension for interactive coding.
 
 **2. Data Loading:**
 - Loaded the CSV file into a Pandas DataFrame using pd.read_csv() with proper encoding (encoding='unicode_escape').
