@@ -43,8 +43,10 @@ The analysis was conducted in Jupyter Notebook using Python libraries: Pandas, N
 - Marital status impact on purchases.
 - Occupation-based purchasing power.
 - Product category performance (orders and revenue).
+- 
 **6. Visualization:
 - Created bar charts to compare metrics (e.g., sns.barplot(x='Gender', y='Amount', data=df)).
--Adjusted plot sizes for readability (e.g., plt.figure(figsize=(15,5))).
+- Adjusted plot sizes for readability (e.g., plt.figure(figsize=(15,5))).
+- 
 **7. Summary:
--Compiled insights into a concise conclusion for actionable recommendations.
+- Compiled insights into a concise conclusion for actionable recommendations.
