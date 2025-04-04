@@ -20,7 +20,7 @@ This project seeks to answer the following key questions:
 The analysis was conducted in Visual Studio Code using Python libraries: Pandas, NumPy, Matplotlib, and Seaborn. Below is the step-by-step process
 
 **1. Environment Setup:**
-- Installed Python and Anaconda to enable Jupyter support.
+- Installed Python and Anaconda Navigator to enable Jupyter support.
 - Installed required libraries (pip install pandas numpy matplotlib seaborn).
 - Configured Visual Studio Code with the Jupyter extension for interactive coding.
 
